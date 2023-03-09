@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(217, 217, 242);
+}
+.iot-applications{
+    text-align: center;
+    border-style: outset;
+    border-width:5px;
+    font-family:sans-serif;
+    font-size:larger;
+}
+.images-image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:50%;
+    height:70%;
+}
+.introduction{
+    opacity:0.4;
+    border-style:ridge;
+    border-width:10px;   
+}
+
+.features{
+ opacity:0.8;
+ border-style:ridge;
+ border-width: 10px;
+ 
+}
+.examples{
+  opacity:0.8;
+  border-style:ridge;
+  border-width: 10px;
+  
+}
+.importance{
+ opacity:0.8;
+ border-style:ridge;
+border-width: 10px;
+}
+
+.skill-sets{
+    text-align:center;
+}
+.footer{
+    text-align: center;
+    background-color: coral;
+    position:fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+}
